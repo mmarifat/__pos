@@ -3,8 +3,6 @@ nbproject
 # properties file
 *.properties
 
-# sql file
-*.sql
 
 # Compiled class file
 *.class
