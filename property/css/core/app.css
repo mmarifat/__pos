@@ -1,0 +1,32 @@
+@import url("bootstrap.css");
+@import url("../../fonts/feather/style.min.css");
+@import url("../../fonts/font-awesome/css/font-awesome.min.css");
+@import url("../../fonts/simple-line-icons/style.css");
+@import url("../../fonts/flag-icon-css/css/flag-icon.min.css");
+@import url("../extensions/pace.css");
+@import url("bootstrap-extended.css");
+@import url("colors.css");
+@import url("components.css");
+@import url("yadcf.css");
+@import url("style.css");
+@import url("colors/palette-gradient.css");
+@import url("mixins/transitions.css");
+@import url("menu/menu-types/vertical-menu.css");
+
+*::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: #6F85AD;
+}
+
+*::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+    background-color: #6F85AD;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-image: -webkit-gradient(linear,
+    left bottom,
+    left top,
+    color-stop(.77, rgb(64, 78, 103)));
+}
