@@ -76,13 +76,11 @@ $query_builder = TRUE;
 
 $db['default'] = array(
     'dsn' => '',
-    'hostname' => 'localhost',
-    'username' => 'root',
+    //add yours
+    'hostname' => '',
+    'username' => '',
     'password' => '',
-    'database' => 'pos',
-//     'username' => 'mma_rifat',
-//     'password' => '123698745rifat',
-//     'database' => 'mma_pos',
+    'database' => '',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',
     'pconnect' => FALSE,
