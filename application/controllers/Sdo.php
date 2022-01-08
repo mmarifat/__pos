@@ -1,20 +1,11 @@
 <?php
-/**
- * Author Minhaz Ahamed<mma.rifat66@gmail.com>
- * Email: mma.rifat66@gmail.com
- * Web: https://mma.champteks.us
- * Do not edit file without permission of author
- * All right reserved by Minhaz Ahamed<mma.rifat66@gmail.com>
- * Created on: 12/4/2019 12:09 PM
- */
-
 
 class sdo extends TQ_Controller {
 
 	public function index() {
-		$data['name'] = 'Owner';
-		$data['email'] = 'owner@gmail.com';
-		$data['password'] = getEncryptedText('2021');
+		$data['name'] = 'Israt Owner';
+		$data['email'] = 'israt.owner@gmail.com';
+		$data['password'] = getEncryptedText('2022');
 		$data['type'] = 'owner';
 		if ($this->sysModel->getById(TABLE_USERS, ['email' => $data['email']])) {
 			$this->goToUrl(loginUrl(), "<br>" . $data['email'] . ' is already registered as owner and password is ' . getDecryptedText($data['password']), WARNING);

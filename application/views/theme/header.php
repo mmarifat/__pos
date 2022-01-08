@@ -1,12 +1,5 @@
 <?php
-/**
- * Author Minhaz Ahamed<mma.rifat66@gmail.com>
- * Email: mma.rifat66@gmail.com
- * Web: https://mma.champteks.us
- * Do not edit file without permission of author
- * All right reserved by Minhaz Ahamed<mma.rifat66@gmail.com>
- * Created on: 10/30/2019 7:49 PM
- */
+
 ?>
 
 <!DOCTYPE html>
@@ -16,10 +9,9 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
-    <meta name="description" content="Developer:mmarifat, mma.rifat66@gmail.com">
-    <meta name="keywords"
-          content="mmarifat,mma rifat, md. minhaz ahamed rifat, minhaz ahamed rifat, minhaz, rifat, mmarifat developer">
-    <meta name="author" content="mmarifat">
+    <meta name="description" content="Developer:israt, israt16-240@diu.edu.bd">
+    <meta name="keywords" content="israt jahan">
+    <meta name="author" content="israt">
     <title><?= isset($navMeta["pageTitle"]) && $navMeta["pageTitle"] ? ($navMeta["pageTitle"] . " | " . $title) : $title ?></title>
     <link rel="shortcut icon" type="image/x-icon" href="<?= favicon() ?>">
 

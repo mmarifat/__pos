@@ -1,24 +1,10 @@
 <?php
-/**
- * Author Minhaz Ahamed<mma.rifat66@gmail.com>
- * Email: mma.rifat66@gmail.com
- * Web: https://mma.champteks.us
- * Do not edit file without permission of author
- * All right reserved by Minhaz Ahamed<mma.rifat66@gmail.com>
- * Created on: 10/30/2019 10:07 PM
- */
+
 ?>
 
 
 <?php
-/**
- * Author Minhaz Ahamed<mma.rifat66@gmail.com>
- * Email: mma.rifat66@gmail.com
- * Web: https://mma.champteks.us
- * Do not edit file without permission of author
- * All right reserved by Minhaz Ahamed<mma.rifat66@gmail.com>
- * Created on: 10/30/2019 10:08 PM
- */
+
 ?>
 
 <div id="content-nav-right">

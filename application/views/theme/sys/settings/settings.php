@@ -1,12 +1,5 @@
 <?php
-/**
- * Author Minhaz Ahamed<mma.rifat66@gmail.com>
- * Email: mma.rifat66@gmail.com
- * Web: https://mma.champteks.us
- * Do not edit file without permission of author
- * All right reserved by Minhaz Ahamed<mma.rifat66@gmail.com>
- * Created on: 11/4/2019 9:20 AM
- */
+
 ?>
 
 <form class="form" novalidate action="<?= sysUrl("settings") ?>" method="post" enctype="multipart/form-data">

@@ -1,12 +1,4 @@
 <?php
-/**
- * Author Minhaz Ahamed<mma.rifat66@gmail.com>
- * Email: mma.rifat66@gmail.com
- * Web: https://mma.champteks.us
- * Do not edit file without permission of author
- * All right reserved by Minhaz Ahamed<mma.rifat66@gmail.com>
- * Created on: 11/12/2019 2:24 PM
- */
 
 //fixed-top
 if ($navBarSettings["topBar"]) {

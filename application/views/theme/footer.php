@@ -1,9 +1,5 @@
 <?php
-/*
- * Author Minhaz Ahamed <mma.rifat66@gmail.com>
- * Dont change without permission
- * All rights reserved @Minhaz Ahamed <mma.rifat66@gmail.com>
- */
+
 ?>
 </div>
 </div>
@@ -15,8 +11,6 @@
         <p class="clearfix blue-grey lighten-2 text-sm-center mb-0 px-2">
         <span class="float-md-left d-block d-md-inline-block">Copyright &copy; <?= date("Y") ?> 
             <a class="text-bold-800 grey darken-2" href="<?= base_url() ?>" target="_SELF"><?= systemName() ?> </a>, All rights reserved. </span>
-            <span class="float-md-right d-block d-md-inline-block d-none d-lg-block">Developed By <a
-                        href="https://www.facebook.com/mma.rifat66" target="blank">mmarifat</a></span>
         </p>
     </footer>
 <?php } ?>

@@ -1,11 +1,5 @@
 <?php
 
-/*
- * Author Minhaz Ahamed <mma.rifat66@gmail.com>
- * Dont change without permission
- * All rights reserved @Minhaz Ahamed <mma.rifat66@gmail.com>
- */
-
 /**
  * @property CI_DB $db Description
  */
